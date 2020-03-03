@@ -1,0 +1,14 @@
+@import '../../styles/colors.scss';
+
+.header-container {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  background-color: $background-default-color;
+  height: 50px;
+  color: $text-primary-color;
+
+  .header-right {
+    margin-left: auto;
+  }
+}

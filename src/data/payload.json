@@ -1,0 +1,5201 @@
+[
+  {
+    "id": 11554,
+    "rank": 1,
+    "name": "Gregory Fomenko",
+    "githubId": "fomenkogregory",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Volgograd",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11568,
+    "rank": 2,
+    "name": "Olga Ivanova",
+    "githubId": "o1vanova",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.294Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11993,
+    "rank": 3,
+    "name": "Anton Mukhin",
+    "githubId": "anton-rsschool",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11565,
+    "rank": 4,
+    "name": "Andrei Kryvets",
+    "githubId": "andreikrivets",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11611,
+    "rank": 5,
+    "name": "Igor Samusev",
+    "githubId": "musmen",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Mogilev",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12022,
+    "rank": 6,
+    "name": "Mikita Nemau",
+    "githubId": "dobrynanikitich",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11553,
+    "rank": 7,
+    "name": "Petro Yuskiv",
+    "githubId": "yuskivpm",
+    "totalScore": 230,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Lviv",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 230
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11459,
+    "rank": 8,
+    "name": "Evgeny Ivanov",
+    "githubId": "ineg22",
+    "totalScore": 229,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 229
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11694,
+    "rank": 9,
+    "name": "Vladyslav Danilochkin",
+    "githubId": "wlukla",
+    "totalScore": 228,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Kyiv",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 228
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11576,
+    "rank": 10,
+    "name": "Ruslan Dudzenich",
+    "githubId": "ranisans",
+    "totalScore": 228,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 228
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11444,
+    "rank": 11,
+    "name": "Volha Soika",
+    "githubId": "vsoika",
+    "totalScore": 228,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 228
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11382,
+    "rank": 12,
+    "name": "Oleksandr Moiseienko",
+    "githubId": "moongue",
+    "totalScore": 228,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Mykolayiv",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 228
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11450,
+    "rank": 13,
+    "name": "Daniyar Ketebay",
+    "githubId": "luckytiger1",
+    "totalScore": 227,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.291Z",
+    "locationName": "Atyrau",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 227
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11379,
+    "rank": 14,
+    "name": "Egor Emelyanov",
+    "githubId": "elaray1",
+    "totalScore": 227,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 227
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12021,
+    "rank": 15,
+    "name": "Marina Sugutova",
+    "githubId": "deeamon",
+    "totalScore": 225,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 225
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11507,
+    "rank": 16,
+    "name": "Oksana Fainitskaia",
+    "githubId": "fainz777",
+    "totalScore": 224,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 224
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11470,
+    "rank": 17,
+    "name": "Vladimir  Otroshchenko",
+    "githubId": "vladimirotroshchenko",
+    "totalScore": 224,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 224
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11921,
+    "rank": 18,
+    "name": "Andrei Domkin",
+    "githubId": "deadline2020",
+    "totalScore": 223,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Mogilev",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 223
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11525,
+    "rank": 19,
+    "name": "Vladislav Priakhine",
+    "githubId": "vladji",
+    "totalScore": 223,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 223
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12107,
+    "rank": 20,
+    "name": "Dmitry Nikonchuk",
+    "githubId": "minihilator",
+    "totalScore": 222,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 222
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11369,
+    "rank": 21,
+    "name": "Ksenia Seliverstova",
+    "githubId": "kseniakuntsevich",
+    "totalScore": 221,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 221
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11555,
+    "rank": 22,
+    "name": "Vasily Gusev",
+    "githubId": "guseff",
+    "totalScore": 219,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 219
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11374,
+    "rank": 23,
+    "name": "SIARHEI NIAPRAKHIN",
+    "githubId": "madashindeinai",
+    "totalScore": 219,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 219
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11357,
+    "rank": 24,
+    "name": "Darya Sidarovich",
+    "githubId": "dariavv",
+    "totalScore": 218,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.291Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 218
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11788,
+    "rank": 25,
+    "name": "Ilya Ivanchikov",
+    "githubId": "ilyaivanchikov",
+    "totalScore": 218,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 218
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11570,
+    "rank": 26,
+    "name": "Yuliaya Hushcha",
+    "githubId": "yuliagushcha",
+    "totalScore": 218,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 218
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11578,
+    "rank": 27,
+    "name": "Vaniushyn Yauheni",
+    "githubId": "d90375",
+    "totalScore": 217,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 217
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11443,
+    "rank": 28,
+    "name": "Denis Borisov",
+    "githubId": "iosdeveloperdk",
+    "totalScore": 217,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 217
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11666,
+    "rank": 29,
+    "name": "Aynur Shauerman",
+    "githubId": "aykuli",
+    "totalScore": 215,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Novosibirsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 215
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11451,
+    "rank": 30,
+    "name": "Ali Gurbanov",
+    "githubId": "gurbanovali",
+    "totalScore": 215,
+    "totalScoreChangeDate": "2020-03-02T12:12:00.201Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 215
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11583,
+    "rank": 31,
+    "name": "Diana Ivanova",
+    "githubId": "melk0sha",
+    "totalScore": 210,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.294Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 210
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11446,
+    "rank": 32,
+    "name": "Vladimir Vassilyanskiy",
+    "githubId": "cl3r1k",
+    "totalScore": 210,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Novosibirsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 210
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11742,
+    "rank": 33,
+    "name": "Marina Sevkovich",
+    "githubId": "slolkunchik",
+    "totalScore": 210,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 210
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11545,
+    "rank": 34,
+    "name": "Katsiaryna Rudzenka",
+    "githubId": "rekaterina",
+    "totalScore": 209,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 209
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11395,
+    "rank": 35,
+    "name": "Siarhei Karukhin",
+    "githubId": "sergej-karyuhin",
+    "totalScore": 209,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 209
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11551,
+    "rank": 36,
+    "name": "Yahor Shulha",
+    "githubId": "egor-alexandrovich",
+    "totalScore": 209,
+    "totalScoreChangeDate": "2020-03-02T09:24:00.231Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 209
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12029,
+    "rank": 37,
+    "name": "Siarhei Iukou",
+    "githubId": "blazarqso",
+    "totalScore": 208,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Molodechno/Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 208
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11391,
+    "rank": 38,
+    "name": "Viktoryia Butrym",
+    "githubId": "victoria-butrym",
+    "totalScore": 207,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 207
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12011,
+    "rank": 39,
+    "name": "Anastasya Nosevich",
+    "githubId": "anastasya1701",
+    "totalScore": 207,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 207
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11806,
+    "rank": 40,
+    "name": "Ilya  Androsau",
+    "githubId": "ajololr",
+    "totalScore": 207,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 207
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11903,
+    "rank": 41,
+    "name": "Vitali Maisiayonak",
+    "githubId": "moiseenokv",
+    "totalScore": 206,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 206
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12015,
+    "rank": 42,
+    "name": "Pavel Okun",
+    "githubId": "pavelokun",
+    "totalScore": 206,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 206
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11618,
+    "rank": 43,
+    "name": "Maxim Demenkow",
+    "githubId": "maxdemaw",
+    "totalScore": 205,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Grodno",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 205
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11757,
+    "rank": 44,
+    "name": "Artsiom Yafremau",
+    "githubId": "aplefull",
+    "totalScore": 204,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 204
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11526,
+    "rank": 45,
+    "name": "Irina Stepanova",
+    "githubId": "missirisshoi",
+    "totalScore": 203,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Almaty",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 203
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12122,
+    "rank": 46,
+    "name": "Irina Novak",
+    "githubId": "irbris",
+    "totalScore": 202,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Poltava",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 202
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11387,
+    "rank": 47,
+    "name": "Rodion Gnezdilov",
+    "githubId": "rowro",
+    "totalScore": 202,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 202
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11683,
+    "rank": 48,
+    "name": "Anastasia Vlasovec",
+    "githubId": "nasta313",
+    "totalScore": 202,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 202
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11431,
+    "rank": 49,
+    "name": "Maksim Kryshneu",
+    "githubId": "kr-mx",
+    "totalScore": 201,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 201
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11432,
+    "rank": 50,
+    "name": "Natalia Zarubina",
+    "githubId": "tor4",
+    "totalScore": 200,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 200
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11458,
+    "rank": 51,
+    "name": "Vladislav Novik",
+    "githubId": "latiertiw",
+    "totalScore": 200,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.294Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 200
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12242,
+    "rank": 52,
+    "name": "Anzhela Martsinovich",
+    "githubId": "anzhelamartsinovich",
+    "totalScore": 199,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 199
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11940,
+    "rank": 53,
+    "name": "Dzmitry Malakhouski",
+    "githubId": "dzmitrycavi",
+    "totalScore": 198,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 198
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11502,
+    "rank": 54,
+    "name": "Vitali Satsura",
+    "githubId": "vitali-satsura",
+    "totalScore": 198,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Gomel",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 198
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11448,
+    "rank": 55,
+    "name": "Sergey Stekh",
+    "githubId": "sergeycodejs",
+    "totalScore": 197,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Izhevsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 197
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11424,
+    "rank": 56,
+    "name": "Shirmurad AKMAMEDAU",
+    "githubId": "muratx10",
+    "totalScore": 196,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 196
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11595,
+    "rank": 57,
+    "name": "Ilya Bakanov",
+    "githubId": "nextdesusu",
+    "totalScore": 196,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Samara",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 196
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12476,
+    "rank": 58,
+    "name": "Liudmila Arzamasova",
+    "githubId": "arzamas-ka",
+    "totalScore": 196,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 196
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11744,
+    "rank": 59,
+    "name": "Valeria Kanonik",
+    "githubId": "needle06",
+    "totalScore": 194,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 194
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11430,
+    "rank": 60,
+    "name": "Anton Yanovskyi",
+    "githubId": "antonini666",
+    "totalScore": 193,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Kharkiv",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 193
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11345,
+    "rank": 61,
+    "name": "Maksim Danilau",
+    "githubId": "maxdanilove",
+    "totalScore": 192,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 192
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11421,
+    "rank": 62,
+    "name": "Alex Andreyenkov",
+    "githubId": "madjack99",
+    "totalScore": 192,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 192
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11646,
+    "rank": 63,
+    "name": "Maria Veremey",
+    "githubId": "kelbitskaya",
+    "totalScore": 189,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 189
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12432,
+    "rank": 64,
+    "name": "Andrei Mandryk",
+    "githubId": "gagarin880120",
+    "totalScore": 189,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 189
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11340,
+    "rank": 65,
+    "name": "Dzmitry Faryna",
+    "githubId": "esoshyki",
+    "totalScore": 189,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 189
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11829,
+    "rank": 66,
+    "name": "Iryna Zaletko",
+    "githubId": "irochkaz",
+    "totalScore": 189,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 189
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11715,
+    "rank": 67,
+    "name": "Alexander Fraltsov",
+    "githubId": "alexanderfraltsov",
+    "totalScore": 188,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Samara",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 188
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11793,
+    "rank": 68,
+    "name": "Maksim Kirylka",
+    "githubId": "rss-maksim",
+    "totalScore": 186,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 186
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11546,
+    "rank": 69,
+    "name": "Maryia Larchanka",
+    "githubId": "mashalarchenko",
+    "totalScore": 185,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 185
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11335,
+    "rank": 70,
+    "name": "Viacheslav Vozniuk",
+    "githubId": "viacheslav-ed",
+    "totalScore": 185,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Kyiv",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 185
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12456,
+    "rank": 71,
+    "name": "Viktar Zanimonets",
+    "githubId": "vzanimonets",
+    "totalScore": 183,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 183
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12442,
+    "rank": 72,
+    "name": "Khotam Bakhromov",
+    "githubId": "khotam",
+    "totalScore": 183,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Tashkent",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 183
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11479,
+    "rank": 73,
+    "name": "Alexandr Lyssenko",
+    "githubId": "lyssenkoalex",
+    "totalScore": 182,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Almaty",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 182
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11721,
+    "rank": 74,
+    "name": "Anna Kulai",
+    "githubId": "annakulai",
+    "totalScore": 181,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 181
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11674,
+    "rank": 75,
+    "name": "Konstantin Andreev",
+    "githubId": "chelvideo",
+    "totalScore": 181,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 181
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12103,
+    "rank": 76,
+    "name": "Aliaksandr Serykau",
+    "githubId": "nij4life",
+    "totalScore": 180,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 180
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11473,
+    "rank": 77,
+    "name": "Uladzimir Siarko",
+    "githubId": "vir45",
+    "totalScore": 180,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 180
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11685,
+    "rank": 78,
+    "name": "Viktar Sipach",
+    "githubId": "viktorsipach",
+    "totalScore": 179,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 179
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11336,
+    "rank": 79,
+    "name": "Maryna Rastargueva",
+    "githubId": "maryna-js",
+    "totalScore": 179,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 179
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11440,
+    "rank": 80,
+    "name": "NIKOLAI SHKRABKOV",
+    "githubId": "mikola-litvin",
+    "totalScore": 179,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Gomel",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 179
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11698,
+    "rank": 81,
+    "name": "Denis Duzh",
+    "githubId": "dermeister",
+    "totalScore": 179,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 179
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11455,
+    "rank": 82,
+    "name": "Viktar Svintsitski",
+    "githubId": "jetalai3",
+    "totalScore": 178,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Grodno",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 178
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11352,
+    "rank": 83,
+    "name": "Aleh Vishneuski",
+    "githubId": "jdow79159",
+    "totalScore": 178,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 178
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11914,
+    "rank": 84,
+    "name": "Anton Yasko",
+    "githubId": "antonyasko",
+    "totalScore": 177,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 177
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11435,
+    "rank": 85,
+    "name": "Andrei Truhin",
+    "githubId": "truhin-andrei",
+    "totalScore": 176,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Krasnoyarsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 176
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11827,
+    "rank": 86,
+    "name": "Yegor Kuzin",
+    "githubId": "yegor0",
+    "totalScore": 176,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 176
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12132,
+    "rank": 87,
+    "name": "Ibragim Abbasov",
+    "githubId": "blancduman",
+    "totalScore": 175,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Volzhskiy",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 175
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11881,
+    "rank": 88,
+    "name": "Yuliya Patapchuk",
+    "githubId": "juliya-potapchuk",
+    "totalScore": 175,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 175
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11465,
+    "rank": 89,
+    "name": "Pavel Burya",
+    "githubId": "pburua",
+    "totalScore": 173,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 173
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11956,
+    "rank": 90,
+    "name": "Maria Rogozhkina",
+    "githubId": "mariarohozhkina",
+    "totalScore": 173,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 173
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11349,
+    "rank": 91,
+    "name": "Yuliya Simonchyk",
+    "githubId": "yuliya-soul",
+    "totalScore": 170,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 170
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12544,
+    "rank": 92,
+    "name": "Alexander Gavruk",
+    "githubId": "kuzyacat",
+    "totalScore": 165,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 165
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11579,
+    "rank": 93,
+    "name": "Denis Poleshchuk",
+    "githubId": "ronoarus",
+    "totalScore": 164,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.291Z",
+    "locationName": "Samara",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 164
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11818,
+    "rank": 94,
+    "name": "Yura Vashkevich",
+    "githubId": "yuri-9",
+    "totalScore": 162,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 162
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11627,
+    "rank": 95,
+    "name": "Ivan Pastukhov",
+    "githubId": "spirithntr",
+    "totalScore": 162,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Izhevsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 162
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11755,
+    "rank": 96,
+    "name": "Vladimir Zhdanov",
+    "githubId": "vukzh",
+    "totalScore": 160,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Almaty",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 160
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11574,
+    "rank": 97,
+    "name": "Vladislav Matveev",
+    "githubId": "invisiblespectator",
+    "totalScore": 160,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Samara",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 160
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11449,
+    "rank": 98,
+    "name": "Vasili Pisarenka",
+    "githubId": "bacila1990",
+    "totalScore": 159,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 159
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11834,
+    "rank": 99,
+    "name": "Alexey Lapitsky",
+    "githubId": "darzamat12",
+    "totalScore": 157,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 157
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11586,
+    "rank": 100,
+    "name": "Oleh Maliarenko",
+    "githubId": "olegmalyarenko",
+    "totalScore": 154,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 154
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11853,
+    "rank": 101,
+    "name": "Roman Goncarov",
+    "githubId": "romasrs",
+    "totalScore": 153,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 153
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11716,
+    "rank": 102,
+    "name": "Aldar",
+    "githubId": "hardlin3r",
+    "totalScore": 152,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Elista",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 152
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11748,
+    "rank": 103,
+    "name": "Nikita Dekhand",
+    "githubId": "dexnkt001",
+    "totalScore": 149,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 149
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11754,
+    "rank": 104,
+    "name": "Dzmitry lehankou",
+    "githubId": "asindeton",
+    "totalScore": 148,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 148
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11680,
+    "rank": 105,
+    "name": "Dzmitry Astapenka",
+    "githubId": "dmitryastapenko",
+    "totalScore": 146,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Zhlobin",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 146
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11460,
+    "rank": 106,
+    "name": "Petr Penner",
+    "githubId": "uwetu",
+    "totalScore": 140,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Ufa",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 140
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11400,
+    "rank": 107,
+    "name": "Sergei Osipov",
+    "githubId": "sergey0s",
+    "totalScore": 138,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 138
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12297,
+    "rank": 108,
+    "name": "Artsiom Lipchyk",
+    "githubId": "tommergz",
+    "totalScore": 138,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.294Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 138
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11673,
+    "rank": 109,
+    "name": "Pavel Sakovich",
+    "githubId": "pavel-sake",
+    "totalScore": 137,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 137
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11539,
+    "rank": 110,
+    "name": "Artem Angalevich",
+    "githubId": "artemang",
+    "totalScore": 135,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 135
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11371,
+    "rank": 111,
+    "name": "Olga Denisyuk",
+    "githubId": "olgadenisyuk",
+    "totalScore": 132,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 132
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11746,
+    "rank": 112,
+    "name": "Katsiaryna Yakubouskaya",
+    "githubId": "katsiaryna31",
+    "totalScore": 129,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Brest",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 129
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11405,
+    "rank": 113,
+    "name": "Denis Arkhipov",
+    "githubId": "vikingspb",
+    "totalScore": 118,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 118
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11454,
+    "rank": 114,
+    "name": "Oksana Shuptar",
+    "githubId": "mesmeri",
+    "totalScore": 111,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Lviv",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 111
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11485,
+    "rank": 115,
+    "name": "Kseniya Yatskevich",
+    "githubId": "kseniyayatskevich",
+    "totalScore": 109,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 109
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11519,
+    "rank": 116,
+    "name": "Olga Bugrova",
+    "githubId": "lyolya95",
+    "totalScore": 109,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Samara",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 109
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12460,
+    "rank": 117,
+    "name": "Kirill Leogky",
+    "githubId": "kirillleogky",
+    "totalScore": 107,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 107
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11468,
+    "rank": 118,
+    "name": "Elena Kytina",
+    "githubId": "helly-15",
+    "totalScore": 106,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 106
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11672,
+    "rank": 119,
+    "name": "Alexander Katsubo",
+    "githubId": "stiff-github",
+    "totalScore": 103,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Zhlobin",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 103
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11399,
+    "rank": 120,
+    "name": "Iryna Dunets",
+    "githubId": "irynadunets",
+    "totalScore": 100,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Lviv",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 100
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11437,
+    "rank": 121,
+    "name": "Aliaksandra Mikhalchanka",
+    "githubId": "alex89889",
+    "totalScore": 91,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 91
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12560,
+    "rank": 122,
+    "name": "Aliaksandr Yanushkevich",
+    "githubId": "aliaksandr-yanushkevich",
+    "totalScore": 60,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 60
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12008,
+    "rank": 123,
+    "name": "Yury Zikeyeu",
+    "githubId": "ziknation",
+    "totalScore": 57,
+    "totalScoreChangeDate": "2020-03-01T16:30:00.294Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 57
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11992,
+    "rank": 124,
+    "name": "Nikolay Shebeko",
+    "githubId": "shebekocom",
+    "totalScore": 55,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 55
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11830,
+    "rank": 125,
+    "name": "Yahor Rabtsau",
+    "githubId": "lansyfonseka",
+    "totalScore": 46,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 46
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11593,
+    "rank": 126,
+    "name": "Ildar Garifullin",
+    "githubId": "ildar107",
+    "totalScore": 45,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Moscow",
+    "taskResults": [
+      {
+        "courseTaskId": 371,
+        "score": 45
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11538,
+    "rank": 127,
+    "name": "Viktoriya Sayevich",
+    "githubId": "victoriasayevich",
+    "totalScore": 33,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 33
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11484,
+    "rank": 128,
+    "name": "Andrei Semianenka",
+    "githubId": "semenetti",
+    "totalScore": 33,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Mozyr",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 33
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 11790,
+    "rank": 129,
+    "name": "Sergey Potapov",
+    "githubId": "sykpen",
+    "totalScore": 24,
+    "totalScoreChangeDate": "2020-02-26T22:00:00.247Z",
+    "locationName": "Minsk",
+    "taskResults": [
+      {
+        "courseTaskId": 372,
+        "score": 24
+      }
+    ],
+    "isActive": true
+  },
+  {
+    "id": 12170,
+    "rank": 130,
+    "name": "Artem Sopot",
+    "githubId": "mrsly89",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11654,
+    "rank": 131,
+    "name": "Anton Hotvianskyi",
+    "githubId": "anto111a",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11596,
+    "rank": 132,
+    "name": "Hanna Slisenka",
+    "githubId": "agentumbrella",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11510,
+    "rank": 133,
+    "name": "Maryia Shklouskaya",
+    "githubId": "happy-mary",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11699,
+    "rank": 134,
+    "name": "Vitalii Bondar",
+    "githubId": "vitaliibondar",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Rivne",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12312,
+    "rank": 135,
+    "name": "Mirjalol Usmanov",
+    "githubId": "mirzhal",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11393,
+    "rank": 136,
+    "name": "Maksim Sabaleuski",
+    "githubId": "msobolevskiy",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12020,
+    "rank": 137,
+    "name": "Sviatlana Tsialeha",
+    "githubId": "ogelet",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12189,
+    "rank": 138,
+    "name": "Aldiyar Yerzhanov",
+    "githubId": "gemcave",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nur-Sultan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11764,
+    "rank": 139,
+    "name": "Mykola Lemekh",
+    "githubId": "lemekhm",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12443,
+    "rank": 140,
+    "name": "Aliaksandr Kudzeniuk",
+    "githubId": "riasets",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11778,
+    "rank": 141,
+    "name": "Aliaksei Lysikau",
+    "githubId": "alexlysikov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11679,
+    "rank": 142,
+    "name": "Aleksandr Lisetskii",
+    "githubId": "alisetskii",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Samara",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11360,
+    "rank": 143,
+    "name": "Krystsina Ilyushonak",
+    "githubId": "christina-ilyushonok",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12052,
+    "rank": 144,
+    "name": "Rassul Tabulov",
+    "githubId": "bleepthesheep",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Astana",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11572,
+    "rank": 145,
+    "name": "Sergey Yakushinsky",
+    "githubId": "net-zen",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Omsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11398,
+    "rank": 146,
+    "name": "Oleksandr  Kushchyk",
+    "githubId": "alekskushchik",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Poltava",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12642,
+    "rank": 147,
+    "name": "Alen Musaev",
+    "githubId": "lnmsv",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Saint-Petersburg",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11984,
+    "rank": 148,
+    "name": "Andrei Rysiavets",
+    "githubId": "rsvts",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12690,
+    "rank": 149,
+    "name": "Shukrullo Kuchkarov",
+    "githubId": "escre",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Uzbekistan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11687,
+    "rank": 150,
+    "name": "Maryna Hytchenko",
+    "githubId": "marynahytchenko",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11670,
+    "rank": 151,
+    "name": "Aliaksandr Pleshkou",
+    "githubId": "pleshkou",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Polotsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11726,
+    "rank": 152,
+    "name": "Siarhei Ivaneichyk",
+    "githubId": "siarheiiv",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11464,
+    "rank": 153,
+    "name": "Dzmitriy Shadziun",
+    "githubId": "dmitriyshadziun",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11677,
+    "rank": 154,
+    "name": "Halina",
+    "githubId": "halinapp",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11504,
+    "rank": 155,
+    "name": "Anton Ausiyevich",
+    "githubId": "fihis",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11428,
+    "rank": 156,
+    "name": "Anna Hamora",
+    "githubId": "annaham",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11373,
+    "rank": 157,
+    "name": "Alexander",
+    "githubId": "borodichalex",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Novopolotsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11664,
+    "rank": 158,
+    "name": "Roman Saldan",
+    "githubId": "romasaldan",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12912,
+    "rank": 159,
+    "name": "Albert Nurkaev",
+    "githubId": "albcs",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Other",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12524,
+    "rank": 160,
+    "name": "Mikhail Kedzel",
+    "githubId": "bearrrrr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Grodno",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11970,
+    "rank": 161,
+    "name": "Siarhei Pesliak",
+    "githubId": "speslyak",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Zhlobin",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11601,
+    "rank": 162,
+    "name": "Vadzim Katkavets",
+    "githubId": "programisterx",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11658,
+    "rank": 163,
+    "name": "Aliaksandr Kastsiukou",
+    "githubId": "saneq1",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11401,
+    "rank": 164,
+    "name": "Mikhail Alexandrovich",
+    "githubId": "mihailstar",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Cheboksary",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11753,
+    "rank": 165,
+    "name": "Vitali Ustsilouski",
+    "githubId": "vitaliuststilouski",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12140,
+    "rank": 166,
+    "name": "Sergey Bykov",
+    "githubId": "dreadwood",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Saint-Petersburg",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11453,
+    "rank": 167,
+    "name": "Vladimir Tyagunov",
+    "githubId": "vladimirtyagunov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11607,
+    "rank": 168,
+    "name": "Mikita Akulich",
+    "githubId": "nikito599",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11647,
+    "rank": 169,
+    "name": "Uladzislau Asadchy",
+    "githubId": "skysharkk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11608,
+    "rank": 170,
+    "name": "Oksana Kryshtop",
+    "githubId": "sanaok",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kryvyy Rih",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11416,
+    "rank": 171,
+    "name": "Iryna Borkina",
+    "githubId": "irinaborkina",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Mogilev",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11821,
+    "rank": 172,
+    "name": "Dzmitry Masakouski",
+    "githubId": "dimamasakovsky",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12302,
+    "rank": 173,
+    "name": "Anastasiya Tabachinskaya",
+    "githubId": "antabachinskaya",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11402,
+    "rank": 174,
+    "name": "Dzianis Hancharou",
+    "githubId": "haspadarz-padmensku",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11690,
+    "rank": 175,
+    "name": "Roman Cherepanov",
+    "githubId": "romach",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11912,
+    "rank": 176,
+    "name": "Aleksandr Berezin",
+    "githubId": "denura",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11871,
+    "rank": 177,
+    "name": "Mikalai Litouchanka",
+    "githubId": "koljn12345",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12120,
+    "rank": 178,
+    "name": "Milana Dzemiantsevich",
+    "githubId": "dmln4k",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11356,
+    "rank": 179,
+    "name": "Ibrokhim Abdurakhmonov",
+    "githubId": "ibrokhim41",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Uzbekistan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11708,
+    "rank": 180,
+    "name": "Jenya Loyowskiy",
+    "githubId": "jenyaloyowskiy",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Ivano-Frankivsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12043,
+    "rank": 181,
+    "name": "Daria Iakimova",
+    "githubId": "iadaria",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Moscow",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11582,
+    "rank": 182,
+    "name": "Dzmitry Liancheuski",
+    "githubId": "lenchevskii",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11598,
+    "rank": 183,
+    "name": "Alesia Kasilava",
+    "githubId": "lesyaprok",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11623,
+    "rank": 184,
+    "name": "Roman Soroka",
+    "githubId": "romansoroka",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lutsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11812,
+    "rank": 185,
+    "name": "Tatsiana Kazachenka",
+    "githubId": "tanuha217",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11846,
+    "rank": 186,
+    "name": "Anton Rost",
+    "githubId": "frontendyr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11648,
+    "rank": 187,
+    "name": "Oleksii Pylypets",
+    "githubId": "alexpylypets",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Shostka",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11964,
+    "rank": 188,
+    "name": "Vadzim Prykhodzka",
+    "githubId": "vp090391",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11896,
+    "rank": 189,
+    "name": "Bahodir Daminov",
+    "githubId": "dbek83developer",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12334,
+    "rank": 190,
+    "name": "Vadzim Sasonkin",
+    "githubId": "oriont",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11624,
+    "rank": 191,
+    "name": "Alexander Lebedev",
+    "githubId": "nordenf",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Moscow",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11602,
+    "rank": 192,
+    "name": "Dzmitry Radkavets",
+    "githubId": "radvam",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11476,
+    "rank": 193,
+    "name": "Anna Cherepantseva",
+    "githubId": "zchannariv",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11433,
+    "rank": 194,
+    "name": "Nataliia Podoima",
+    "githubId": "podoima",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11824,
+    "rank": 195,
+    "name": "Andrey Vasilchuk",
+    "githubId": "outlawpinsk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11736,
+    "rank": 196,
+    "name": "Nazar Koval",
+    "githubId": "nazar-koval",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11372,
+    "rank": 197,
+    "name": "Petr Marchanka",
+    "githubId": "pyatromarchanka",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12229,
+    "rank": 198,
+    "name": "Vadym Kostiuk",
+    "githubId": "vadimdk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Zhytomyr",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11588,
+    "rank": 199,
+    "name": "Aleksey Zadorozhny",
+    "githubId": "bludce",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Stary Oskol",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11781,
+    "rank": 200,
+    "name": "Mukhamed Talaspaev",
+    "githubId": "talaspaev",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11341,
+    "rank": 201,
+    "name": "Aliaksandr Pauliukavets",
+    "githubId": "mbulldozer",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11527,
+    "rank": 202,
+    "name": "Igor Gladkyi",
+    "githubId": "igladkiy",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11384,
+    "rank": 203,
+    "name": "Ivanna Khrystyna Pylypiv",
+    "githubId": "khrystynap7",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11386,
+    "rank": 204,
+    "name": "Siarhei Shastak",
+    "githubId": "sergeyshestak",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11338,
+    "rank": 205,
+    "name": "Vitalii Sokolov",
+    "githubId": "vitalysokolov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Other",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11800,
+    "rank": 206,
+    "name": "Bekhruz Absamitov",
+    "githubId": "bekhruz99",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Uzbekistan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11569,
+    "rank": 207,
+    "name": "Ihar Nazarau",
+    "githubId": "iharnazarov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11928,
+    "rank": 208,
+    "name": "Alena Vasilchenko",
+    "githubId": "amoebiusss",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11529,
+    "rank": 209,
+    "name": "Mykola Medvedenko",
+    "githubId": "mukojla",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11543,
+    "rank": 210,
+    "name": "Roman Lunev",
+    "githubId": "lunevr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Saint-Petersburg",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11411,
+    "rank": 211,
+    "name": "Yury Yuchkavich",
+    "githubId": "yurayuchkavich",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11520,
+    "rank": 212,
+    "name": "Ilya Kaptsevich",
+    "githubId": "hybeard",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11693,
+    "rank": 213,
+    "name": "Kirill Patotski",
+    "githubId": "kirill-pototsky",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Grodno",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11475,
+    "rank": 214,
+    "name": "Yauheni Vaitsiakhovich",
+    "githubId": "stigmat19",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11747,
+    "rank": 215,
+    "name": "Kiryl Viarenich",
+    "githubId": "sabbaken",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12054,
+    "rank": 216,
+    "name": "Natallia Shulhach",
+    "githubId": "natalliashulhach",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Brest",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11528,
+    "rank": 217,
+    "name": "Igor Barbashov",
+    "githubId": "igorbarbashov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11915,
+    "rank": 218,
+    "name": "Djordj Balbakov",
+    "githubId": "iva8000",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Elista",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11948,
+    "rank": 219,
+    "name": "Vitali Semashkevich",
+    "githubId": "u1tima",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11361,
+    "rank": 220,
+    "name": "Marat Gumerov",
+    "githubId": "gumerov-marat",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11660,
+    "rank": 221,
+    "name": "Oksana Khabrovska",
+    "githubId": "okhabr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11436,
+    "rank": 222,
+    "name": "Oleksandra Ivanenko",
+    "githubId": "indiel",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11981,
+    "rank": 223,
+    "name": "Zafarbek Khodjaev",
+    "githubId": "thezaff",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12146,
+    "rank": 224,
+    "name": "Oleh Panasiuk",
+    "githubId": "olpanasiuk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12462,
+    "rank": 225,
+    "name": "Vladislav Ivanov",
+    "githubId": "himimetsu",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11703,
+    "rank": 226,
+    "name": "Sergei Zotov",
+    "githubId": "zotovsergei",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nizhny Tagil",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11339,
+    "rank": 227,
+    "name": "Yulya Vasilyeva",
+    "githubId": "tagea",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11506,
+    "rank": 228,
+    "name": "Veranika Vasilchykava",
+    "githubId": "veronikavasilchikova",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12014,
+    "rank": 229,
+    "name": "Dmitry Smirnov",
+    "githubId": "dmitsmerd",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Yaroslavl",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11843,
+    "rank": 230,
+    "name": "Timofei Lukashevich",
+    "githubId": "keksik77",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11839,
+    "rank": 231,
+    "name": "Artur Radziukhin",
+    "githubId": "gisman4ik",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12301,
+    "rank": 232,
+    "name": "Aliaksandr Torkhau",
+    "githubId": "torkhau",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Brest",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11758,
+    "rank": 233,
+    "name": "Pavel Osipau",
+    "githubId": "thatcherrr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11862,
+    "rank": 234,
+    "name": "Yuliya Kruk",
+    "githubId": "ykruk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11894,
+    "rank": 235,
+    "name": "Michael Chizhov",
+    "githubId": "chizhovm",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Brest",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11898,
+    "rank": 236,
+    "name": "Katerina Zhadko",
+    "githubId": "cathzetjo",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11604,
+    "rank": 237,
+    "name": "Oleh Martemianov",
+    "githubId": "alege",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11513,
+    "rank": 238,
+    "name": "Askhat Zhamabayev",
+    "githubId": "jamask",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kostanay",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11676,
+    "rank": 239,
+    "name": "Valeriia Rieznik",
+    "githubId": "valeriia-rez",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11724,
+    "rank": 240,
+    "name": "Dmytro Yatsyshyn",
+    "githubId": "vovksamitnyk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11334,
+    "rank": 241,
+    "name": "Dmitrii Bolshakov",
+    "githubId": "radiophysiker",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Moscow",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11814,
+    "rank": 242,
+    "name": "Igor Samartsev",
+    "githubId": "samartsev",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Bishkek",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11342,
+    "rank": 243,
+    "name": "Siarhei Huk",
+    "githubId": "eventpromo",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12445,
+    "rank": 244,
+    "name": "Katya Dubtsova",
+    "githubId": "katunya",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Saratov",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11509,
+    "rank": 245,
+    "name": "Dmitry Gorbunov",
+    "githubId": "stepbystepper",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Voronezh",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11785,
+    "rank": 246,
+    "name": "Artem Syuzev",
+    "githubId": "redcliphaloe",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Saint-Petersburg",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11394,
+    "rank": 247,
+    "name": "Mikhail Zyranau",
+    "githubId": "zmichgen",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11794,
+    "rank": 248,
+    "name": "Artur Rubchenko",
+    "githubId": "arthur199212",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11847,
+    "rank": 249,
+    "name": "Ilya Ivashko",
+    "githubId": "star278",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11688,
+    "rank": 250,
+    "name": "Oleksandr Bobir",
+    "githubId": "olbob",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11877,
+    "rank": 251,
+    "name": "Andrei Shablyka",
+    "githubId": "ashablyka",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11478,
+    "rank": 252,
+    "name": "Petrov Pavel",
+    "githubId": "modestry",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Vladimir",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11820,
+    "rank": 253,
+    "name": "Andrey Neumuvanny",
+    "githubId": "andyneu8888",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Samara",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11767,
+    "rank": 254,
+    "name": "Izzatkhon",
+    "githubId": "izzathon",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Uzbekistan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11749,
+    "rank": 255,
+    "name": "Sergey Borisevich",
+    "githubId": "serjyk10",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11415,
+    "rank": 256,
+    "name": "Karyna Mikhei",
+    "githubId": "karamihey",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11549,
+    "rank": 257,
+    "name": "Tymur Mikava",
+    "githubId": "timkava",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12188,
+    "rank": 258,
+    "name": "Polina Voronova",
+    "githubId": "polinavoronova",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12459,
+    "rank": 259,
+    "name": "Stanislav Iosifov",
+    "githubId": "stanislavkharkiv",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11388,
+    "rank": 260,
+    "name": "Zezina Darya",
+    "githubId": "alizeeeda",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11558,
+    "rank": 261,
+    "name": "Alexey Shably",
+    "githubId": "screloma",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Belgorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11496,
+    "rank": 262,
+    "name": "Vasiliy S",
+    "githubId": "me-am-i",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Bryansk / Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11916,
+    "rank": 263,
+    "name": "Ekaterina Kolosovskaya",
+    "githubId": "deltapoint",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11633,
+    "rank": 264,
+    "name": "Anastasiya Homanava",
+    "githubId": "anastasiyahomanava",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11865,
+    "rank": 265,
+    "name": "Julia Yakus",
+    "githubId": "blastbitpin",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11741,
+    "rank": 266,
+    "name": "Raman Kamarou",
+    "githubId": "pomakom",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Grodno",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11875,
+    "rank": 267,
+    "name": "Vitaliy Kalenichenko",
+    "githubId": "vitaliy-ko",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Dnipro",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12075,
+    "rank": 268,
+    "name": "Alexey Tasbauov",
+    "githubId": "alexdali",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nur-Sultan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11822,
+    "rank": 269,
+    "name": "Dima Stolbov",
+    "githubId": "persik3221",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11735,
+    "rank": 270,
+    "name": "Maria Hayenka",
+    "githubId": "vitteemou",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12455,
+    "rank": 271,
+    "name": "Pavel  Andreikovers",
+    "githubId": "pavlenstory",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11524,
+    "rank": 272,
+    "name": "Evgeny Dus",
+    "githubId": "evgenydus",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12226,
+    "rank": 273,
+    "name": "Dzenis Husachok",
+    "githubId": "denis842",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11807,
+    "rank": 274,
+    "name": "Dzmitry  Lukyantsou",
+    "githubId": "dmitryi-lukyantsov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11765,
+    "rank": 275,
+    "name": "Alexander Berezin",
+    "githubId": "a1vik",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Izhevsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11575,
+    "rank": 276,
+    "name": "ARTSIOM CHAHADAR",
+    "githubId": "temkinman",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Zhlobin",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12469,
+    "rank": 277,
+    "name": "Muhammadamin Ibragimov",
+    "githubId": "muhamadamin1992",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11858,
+    "rank": 278,
+    "name": "Roman Bilovus",
+    "githubId": "romanbilovus",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Other",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12033,
+    "rank": 279,
+    "name": "Uladzimir Kazak",
+    "githubId": "mrinex",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11353,
+    "rank": 280,
+    "name": "Nazar Pyhlyuk",
+    "githubId": "drake0770",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11366,
+    "rank": 281,
+    "name": "Dmytro Radzichovskyi",
+    "githubId": "warskins",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Ukrainka",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11616,
+    "rank": 282,
+    "name": "Mark Toukach",
+    "githubId": "marktovkach",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12458,
+    "rank": 283,
+    "name": "Artsiom Reutovich",
+    "githubId": "xelsoid",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11474,
+    "rank": 284,
+    "name": "Khrystyna Derenivska",
+    "githubId": "kblueberry",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11517,
+    "rank": 285,
+    "name": "Mykhailo Blazhko",
+    "githubId": "blazhkomikhail",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Dnipro",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12152,
+    "rank": 286,
+    "name": "Uladzimir Svirydzenka",
+    "githubId": "vladimir-sviridenko",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Mogilev",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11523,
+    "rank": 287,
+    "name": "Petro Fedorenko",
+    "githubId": "ipgpt",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11534,
+    "rank": 288,
+    "name": "Sergey Kostin",
+    "githubId": "puhlyaman",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nizhny Novgorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11537,
+    "rank": 289,
+    "name": "Volodymyr Kalakura",
+    "githubId": "volodymyrkalakura",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11932,
+    "rank": 290,
+    "name": "Sasnouski Uladzislau",
+    "githubId": "svatoybober",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11594,
+    "rank": 291,
+    "name": "Vadim MInakov",
+    "githubId": "devbiirds",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11861,
+    "rank": 292,
+    "name": "ANDREY KARCHEUSKI",
+    "githubId": "karway211",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12217,
+    "rank": 293,
+    "name": "Anna Samokaliova",
+    "githubId": "anika3160",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Vitebsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12371,
+    "rank": 294,
+    "name": "Andrei Mozhaev",
+    "githubId": "conneryfrommi6",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11720,
+    "rank": 295,
+    "name": "Andrei Ahanouski",
+    "githubId": "andrew-bogolubof",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11533,
+    "rank": 296,
+    "name": "Stanislau Vasilkou",
+    "githubId": "stanislau-vasilkou",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11878,
+    "rank": 297,
+    "name": "Dzianis Maslouski",
+    "githubId": "denis-maslovskiy",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12640,
+    "rank": 298,
+    "name": "Yauheniy Anapreyenka",
+    "githubId": "eugenio7779",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11732,
+    "rank": 299,
+    "name": "David Hakobjanian",
+    "githubId": "hakobjaniandavid",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Togliatti",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11659,
+    "rank": 300,
+    "name": "Vitalii Chmoryk",
+    "githubId": "vitaliichmoryk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11962,
+    "rank": 301,
+    "name": "Yauheni Baradzko",
+    "githubId": "eugeneborodko",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11731,
+    "rank": 302,
+    "name": "Mykhailo Bezditnyi",
+    "githubId": "bmapps",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Uzhhorod",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11377,
+    "rank": 303,
+    "name": "Mikita Maiseichyk",
+    "githubId": "vromga",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 13276,
+    "rank": 304,
+    "name": "Lizaveta Chernik",
+    "githubId": "lchernik",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11759,
+    "rank": 305,
+    "name": "Dmitry Ovchinnikov",
+    "githubId": "eazy134",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tyumen",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11776,
+    "rank": 306,
+    "name": "Alexandra Zakovinko",
+    "githubId": "alexandra789",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11662,
+    "rank": 307,
+    "name": "Anton Burlakou",
+    "githubId": "kaxaru",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11678,
+    "rank": 308,
+    "name": "Aliaksandr Chachura",
+    "githubId": "aliaksandrchachura",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11486,
+    "rank": 309,
+    "name": "Margharyta Nebesnaya",
+    "githubId": "ritaheav",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11924,
+    "rank": 310,
+    "name": "",
+    "githubId": "reactlearn2020",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11466,
+    "rank": 311,
+    "name": "Andrei Kozik",
+    "githubId": "andreykozik",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Borisov",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11773,
+    "rank": 312,
+    "name": "Alexandr Pylypenko",
+    "githubId": "alexpilip",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11447,
+    "rank": 313,
+    "name": "Oleg Kan",
+    "githubId": "kan15",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11840,
+    "rank": 314,
+    "name": "Aliaksei Kernoha",
+    "githubId": "alexx-13",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11745,
+    "rank": 315,
+    "name": "Roman Yaruk",
+    "githubId": "jarelino",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11665,
+    "rank": 316,
+    "name": "Andrii Kitsun",
+    "githubId": "andrii-kitsun",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11423,
+    "rank": 317,
+    "name": "EVGENIY VEREMYEV",
+    "githubId": "evgenver",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Yekaterinburg",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11626,
+    "rank": 318,
+    "name": "Bunyod Kh",
+    "githubId": "bunyodkh",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11751,
+    "rank": 319,
+    "name": "Aliaksandr Baranau",
+    "githubId": "aliaksandr-afk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Mogilev",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11869,
+    "rank": 320,
+    "name": "VOLODYMYR MYHAL",
+    "githubId": "migalvowa",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11936,
+    "rank": 321,
+    "name": "Viktoryia Sviatlova",
+    "githubId": "ramzelkin",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12632,
+    "rank": 322,
+    "name": "Alexander Rybakov",
+    "githubId": "stepbackru",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Moscow",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11547,
+    "rank": 323,
+    "name": "Vitali Himzheuski",
+    "githubId": "jimmba",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11692,
+    "rank": 324,
+    "name": "Aleksandr Safarov",
+    "githubId": "safarov-ua",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11825,
+    "rank": 325,
+    "name": "Iryna Belenkaya",
+    "githubId": "ivy-black",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11389,
+    "rank": 326,
+    "name": "Aliaksandr Razhachkin",
+    "githubId": "agentra",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11743,
+    "rank": 327,
+    "name": "Dmitry Bogdan",
+    "githubId": "nxtspc",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12240,
+    "rank": 328,
+    "name": "Dima Xmiel",
+    "githubId": "xmelsky",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Brest",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11934,
+    "rank": 329,
+    "name": "Timofey Danekin",
+    "githubId": "dtimofey",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11354,
+    "rank": 330,
+    "name": "Bohdan Pantiukhov",
+    "githubId": "gingermanymph",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Other",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11805,
+    "rank": 331,
+    "name": "Dzmitry Balakhonau",
+    "githubId": "dmitry-bdg",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 13419,
+    "rank": 332,
+    "name": "Sergeq Sudakov",
+    "githubId": "sergey-mouse-code",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Dmitrov",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11540,
+    "rank": 333,
+    "name": "Eugene Yurkevich",
+    "githubId": "bopoda",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 13231,
+    "rank": 334,
+    "name": "Aliaksandr Mamchyts",
+    "githubId": "maliaxandr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11409,
+    "rank": 335,
+    "name": "Aliaksandr Kashevskiy",
+    "githubId": "6alex6kash6",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11884,
+    "rank": 336,
+    "name": "daniil klimianok",
+    "githubId": "daklin2",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Svetlogorsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12131,
+    "rank": 337,
+    "name": "Alexandr Sidorov",
+    "githubId": "dinosavr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Saint-Petersburg",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11832,
+    "rank": 338,
+    "name": "Aleh Duhinau",
+    "githubId": "oduginov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11667,
+    "rank": 339,
+    "name": "Marta Kozak",
+    "githubId": "iammarta",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12135,
+    "rank": 340,
+    "name": "Yauheni Herasimenka",
+    "githubId": "gerasik",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11819,
+    "rank": 341,
+    "name": "Dmytro Hryhorchuck",
+    "githubId": "dmytrohryhorchuck",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11512,
+    "rank": 342,
+    "name": "Tetiana Hurova",
+    "githubId": "tsaputo",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11613,
+    "rank": 343,
+    "name": "Andrii Konovalov",
+    "githubId": "garza0",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12160,
+    "rank": 344,
+    "name": "Anastasiya Sukhaverkhaya",
+    "githubId": "anastasiya-s",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12404,
+    "rank": 345,
+    "name": "Konstantin Vengerov",
+    "githubId": "kvengerov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11681,
+    "rank": 346,
+    "name": "Aleksandr Majarov",
+    "githubId": "alexandrmazharov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Samara",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11337,
+    "rank": 347,
+    "name": "Anastasiya Savich",
+    "githubId": "savichanastasia",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11728,
+    "rank": 348,
+    "name": "Igor Yurashchik",
+    "githubId": "prost1gor",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11591,
+    "rank": 349,
+    "name": "Ostap Hrytsyk",
+    "githubId": "ostap1963",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11848,
+    "rank": 350,
+    "name": "Anna Argunova",
+    "githubId": "annaargunova",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11972,
+    "rank": 351,
+    "name": "Dzianis Ahafonau",
+    "githubId": "dnagafonov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12291,
+    "rank": 352,
+    "name": "Andrey Kazey",
+    "githubId": "anreikas",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11535,
+    "rank": 353,
+    "name": "Uladzislau Sakalouski",
+    "githubId": "wolk777",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11929,
+    "rank": 354,
+    "name": "HANNA ALTUNINA",
+    "githubId": "hannaaltunina",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11426,
+    "rank": 355,
+    "name": "Volha Maziuk",
+    "githubId": "olgamazyuk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11413,
+    "rank": 356,
+    "name": "Nastassia Miadzvedzeva",
+    "githubId": "nastyamedv",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11719,
+    "rank": 357,
+    "name": "Holenko Aleksandr",
+    "githubId": "a-v-g",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11901,
+    "rank": 358,
+    "name": "Andrey Ivanov",
+    "githubId": "aiipo",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Izhevsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11879,
+    "rank": 359,
+    "name": "Hanna Shulhina",
+    "githubId": "kotcher1",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11441,
+    "rank": 360,
+    "name": "Heorhi Tuz",
+    "githubId": "georgetuz",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11700,
+    "rank": 361,
+    "name": "Ivan Nikolajtsev",
+    "githubId": "localhost1982",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11986,
+    "rank": 362,
+    "name": "Maksim Garanin",
+    "githubId": "maxgaranin",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Samara",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12037,
+    "rank": 363,
+    "name": "Shynggys Kairkhan",
+    "githubId": "qairkhan",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11850,
+    "rank": 364,
+    "name": "Vitaliy Krokhov",
+    "githubId": "vitalcha",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11811,
+    "rank": 365,
+    "name": "Andrei Shalkouski",
+    "githubId": "bomzhnaopele",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11557,
+    "rank": 366,
+    "name": "Atabalov Murad",
+    "githubId": "santyaga33",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Ukrainka",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11645,
+    "rank": 367,
+    "name": "Viktoriya Vorozhun",
+    "githubId": "viktoriyavorozhun",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11797,
+    "rank": 368,
+    "name": "Aliaksei Kastsevich",
+    "githubId": "akutrapali",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11355,
+    "rank": 369,
+    "name": "Daria Lynx",
+    "githubId": "l1nx",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11752,
+    "rank": 370,
+    "name": "Aleksei Osipov",
+    "githubId": "algoritmiks",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Yaroslavl",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11556,
+    "rank": 371,
+    "name": "Pavel Leskavets",
+    "githubId": "pavel-leskavets",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11410,
+    "rank": 372,
+    "name": "Sharyar Turganbaev",
+    "githubId": "sharyz",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11375,
+    "rank": 373,
+    "name": "Nikolay Koshkin",
+    "githubId": "koshkinnickolay",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Izhevsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12247,
+    "rank": 374,
+    "name": "Inna Rekesh",
+    "githubId": "inna-rekesh",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11835,
+    "rank": 375,
+    "name": "DZMITRY BATURA",
+    "githubId": "dimmitrii",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11482,
+    "rank": 376,
+    "name": "Olha Zhokhova",
+    "githubId": "olhazhokhova",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Vinnytsia",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11491,
+    "rank": 377,
+    "name": "Maryna Butovych",
+    "githubId": "scottish-cat",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11420,
+    "rank": 378,
+    "name": "Mykola Yemets",
+    "githubId": "deekline",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Poltava",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11359,
+    "rank": 379,
+    "name": "Volodymyr Mliuzan",
+    "githubId": "mlyzan",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11675,
+    "rank": 380,
+    "name": "Katsiaryna Rak",
+    "githubId": "katerak",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12641,
+    "rank": 381,
+    "name": "Alexandr Dubiaga",
+    "githubId": "alexandrdubiaga",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Mykolayiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11612,
+    "rank": 382,
+    "name": "Maksim Burchak",
+    "githubId": "7zybn",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11427,
+    "rank": 383,
+    "name": "Artem Semehen",
+    "githubId": "7art",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Chernivtsi",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11403,
+    "rank": 384,
+    "name": "Ulugbek Isroilov",
+    "githubId": "ulugbek989898",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11770,
+    "rank": 385,
+    "name": "Bahdan Tsviatkou",
+    "githubId": "getbodya",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Vitebsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11376,
+    "rank": 386,
+    "name": "Anna Yevstihnieieva",
+    "githubId": "evannetta",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Dnipro",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11396,
+    "rank": 387,
+    "name": "Alexander Rudyk",
+    "githubId": "dezo103",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk-Molodechno",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11567,
+    "rank": 388,
+    "name": "Aleh Rudzevich",
+    "githubId": "iteary",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11769,
+    "rank": 389,
+    "name": "Sergey Vnukov",
+    "githubId": "sergeyuv",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Other",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12042,
+    "rank": 390,
+    "name": "Roman Tymchenko",
+    "githubId": "timon4ik2102",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11889,
+    "rank": 391,
+    "name": "Olena Havryliuk",
+    "githubId": "heletrix",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11472,
+    "rank": 392,
+    "name": "Anton Shumeiko",
+    "githubId": "strang999",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kyiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11442,
+    "rank": 393,
+    "name": "Yerlan Rsaldin",
+    "githubId": "rsaldiny",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nur-Sultan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11348,
+    "rank": 394,
+    "name": "Ilia Kazakov",
+    "githubId": "nerevin",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Samara",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11842,
+    "rank": 395,
+    "name": "Sergey Voronko",
+    "githubId": "vss1502",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12053,
+    "rank": 396,
+    "name": "Rita Amelyanchuk",
+    "githubId": "ritaom",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11933,
+    "rank": 397,
+    "name": "Sergey Lysenko",
+    "githubId": "olys1703",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Samara",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11603,
+    "rank": 398,
+    "name": "Oleh Senchyshyn",
+    "githubId": "olegsenchyshyn",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11350,
+    "rank": 399,
+    "name": "Roman Pasternak",
+    "githubId": "romanpasternak",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11974,
+    "rank": 400,
+    "name": "Nadia Kaputkina",
+    "githubId": "nadiakaputkina",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11562,
+    "rank": 401,
+    "name": "Dmytro Ostretsov",
+    "githubId": "dmytro-ost",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Poltava",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11727,
+    "rank": 402,
+    "name": "Munira Begmuratova",
+    "githubId": "munishkin",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Tashkent",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11461,
+    "rank": 403,
+    "name": "Anton Chonka",
+    "githubId": "pro2html",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 13398,
+    "rank": 404,
+    "name": "Stanislav Vitvitskiy",
+    "githubId": "stasvitvitskiy",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Other",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11868,
+    "rank": 405,
+    "name": "Roman Triputko",
+    "githubId": "trigsen",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11711,
+    "rank": 406,
+    "name": "Roman Maruniak",
+    "githubId": "hallgeirr",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Lviv",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12643,
+    "rank": 407,
+    "name": "Muhammad khuja",
+    "githubId": "ayub1221",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Uzbekistan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11712,
+    "rank": 408,
+    "name": "Maksim Kazachenka",
+    "githubId": "sffirm",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Gomel",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11917,
+    "rank": 409,
+    "name": "Anastasia Karbovskaya",
+    "githubId": "anastasiakrbvsk",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 12421,
+    "rank": 410,
+    "name": "Yerlan Tleubekov",
+    "githubId": "yerlan-tleubekov",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Nur-Sultan",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11926,
+    "rank": 411,
+    "name": "Anastasiia  Penia",
+    "githubId": "curlyanastasi",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Dnipro",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11499,
+    "rank": 412,
+    "name": "Artsem Balunda",
+    "githubId": "ramp4",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11566,
+    "rank": 413,
+    "name": "Uladzislau Tataritski",
+    "githubId": "vladtataritsky",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Minsk",
+    "taskResults": [],
+    "isActive": true
+  },
+  {
+    "id": 11397,
+    "rank": 414,
+    "name": "Vladislav Izverschi",
+    "githubId": "izversky",
+    "totalScore": 0,
+    "totalScoreChangeDate": null,
+    "locationName": "Kharkiv",
+    "taskResults": [],
+    "isActive": true
+  }
+]
