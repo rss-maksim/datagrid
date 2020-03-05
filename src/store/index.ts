@@ -3,6 +3,7 @@ import createSagaMiddleware from 'redux-saga'
 
 import { rootSaga } from '../sagas'
 import { headerReducer } from '../components/Header'
+import { gridReducer } from '../components/Grid'
 
 declare global {
     interface Window {
@@ -12,6 +13,7 @@ declare global {
 
 const rootReducer = combineReducers({
     headerReducer,
+    gridReducer
 })
 
 export const createAppStore = () => {

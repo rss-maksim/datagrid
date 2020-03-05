@@ -2,7 +2,7 @@ import { connect } from 'react-redux'
 import { Dispatch } from 'redux'
 
 import { Header as HeaderComponent } from './Header';
-import {changeLanguage} from './reducer';
+import { changeLanguage } from './reducer';
 
 const mapStateToProps = ({ headerReducer }: any) => ({})
 
