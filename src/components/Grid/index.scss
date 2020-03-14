@@ -1,13 +1,88 @@
+@import "../../styles/colors.scss";
+
+$column-id-max-width: 50px;
+
 .grid-container {
+  height: calc(100vh - 100px);
+  width: 100%;
+  overflow: auto;
+  font-size: 12px;
+
   .grid-row {
+    box-sizing: border-box;
     display: flex;
+    min-height: 30px;
+    border-bottom: 1px #ececec solid;
+    min-width: 1020px;
+
+    &:hover {
+      background-color: #f5f5f5;
+    }
+
+    &:nth-child(odd) {
+      background-color: #fcfdfe;
+    }
+
+    &.header-grid-row {
+      height: 40px;
+      position: sticky;
+      top: 0;
+      background-color: $grey-color;
+    }
   }
 
   .grid-cell {
-    width: 100px;
+    flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0 5px;
+    overflow: hidden;
+
+    &.header-grid-cell {
+      font-weight: bold;
+      cursor: pointer;
+
+      &:hover {
+        background-color: $grey-accent-color;
+      }
+    }
+
+    &.grid-cell-number {
+      justify-content: flex-end;
+    }
+
+    &.grid-cell-string {
+      justify-content: flex-start;
+    }
+
+    &.grid-cell-boolean:after {
+      content: '';
+    }
+
+    &.grid-cell-boolean.active:after {
+      content: '\2713';
+      color: $success-main-color;
+    }
+
+    .sort-arrow-icon {
+      margin-left: 2px;
+      transform: rotate(90deg);
+
+      &:hover {
+        //background-color: rgba($background-default-color, 0.2);
+      }
+
+      &.desc {
+        transform: rotate(270deg);
+      }
+    }
+
+    .inner-grid-cell {
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+    }
   }
 }
 

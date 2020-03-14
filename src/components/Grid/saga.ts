@@ -5,7 +5,7 @@ import data from '../../data/payload.json'
 
 export function* fetchWorker() {
     yield delay(2000)
-    yield put(setPayload(data.slice(0, 100)))
+    yield put(setPayload(data))
 }
 
 export function* gridSaga() {

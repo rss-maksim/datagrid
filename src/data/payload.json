@@ -2,7 +2,7 @@
   {
     "id": 9155,
     "rank": 1,
-    "name": "Aliaksandr Pletsiazhou",
+    "name": "AAAAAAAliaksandr PletsiazhouAliaksandr Pletsiazhou",
     "githubId": "doher",
     "totalScore": 1170.4,
     "totalScoreChangeDate": "2020-03-02T13:36:01.530Z",
@@ -93062,7 +93062,7 @@
     "totalScoreChangeDate": null,
     "locationName": "Elista",
     "taskResults": [],
-    "isActive": true
+    "isActive": false
   },
   {
     "id": 12175,
@@ -93106,7 +93106,7 @@
     "totalScoreChangeDate": null,
     "locationName": "Izhevsk",
     "taskResults": [],
-    "isActive": true
+    "isActive": false
   },
   {
     "id": 12472,
@@ -93128,6 +93128,6 @@
     "totalScoreChangeDate": null,
     "locationName": "Minsk",
     "taskResults": [],
-    "isActive": true
+    "isActive": false
   }
 ]

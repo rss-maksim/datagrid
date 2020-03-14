@@ -1,5 +1,6 @@
-import { put, takeEvery, all } from 'redux-saga/effects'
+import { put, takeEvery } from 'redux-saga/effects'
 
+// @todo: update
 const delay = (ms: number) => new Promise(res => setTimeout(res, ms))
 
 export function* incrementAsync() {

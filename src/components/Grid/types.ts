@@ -7,6 +7,7 @@ export interface IGridConfigColumn {
     sortable?: boolean
     filterable?: boolean
     visible?: boolean
+    width?: number
 }
 
 export interface IGridConfig {
@@ -16,8 +17,13 @@ export interface IGridConfig {
 
 export interface IGrid {
     payload: IStudent[]
+    received: boolean
+    orderBy: string
+    desc: boolean
     config: IGridConfig
     fetchData: () => void
+    onSort: (column: string) => () => void
+    onFilter: (column: string) => () => void
 }
 
 export interface IState {

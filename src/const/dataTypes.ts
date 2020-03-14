@@ -1,4 +1,5 @@
 export enum DataTypes {
+    id = 'id',
     number = 'number',
     string = 'string',
     boolean = 'boolean',

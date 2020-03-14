@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@material-ui/icons": "^4.9.1",
+    "classnames": "^2.2.6",
+    "ramda": "^0.27.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-redux": "^7.2.0",
@@ -32,19 +36,26 @@
     ]
   },
   "devDependencies": {
+    "@material-ui/core": "^4.9.5",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@types/classnames": "^2.2.10",
     "@types/jest": "^24.9.1",
+    "@types/moment": "^2.13.0",
     "@types/node": "^12.12.29",
+    "@types/ramda": "^0.26.43",
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
     "@types/react-redux": "^7.1.7",
+    "@types/react-window": "^1.8.1",
     "@types/redux": "^3.6.0",
     "@types/redux-actions": "^2.6.1",
     "@types/redux-saga": "^0.10.5",
+    "moment": "^2.24.0",
     "node-sass": "^4.13.1",
     "react-scripts": "3.4.0",
+    "react-window": "^1.8.5",
     "typescript": "^3.7.5"
   }
 }

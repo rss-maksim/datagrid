@@ -1,16 +1,19 @@
 import { DataTypes } from '../../const/dataTypes'
 
 export const gridConfig = {
+    defaultSortingField: 'id',
     columns: [
         {
             name: 'ID',
             source: 'id',
-            type: DataTypes.number
+            type: DataTypes.id,
+            width: 70
         },
         {
             name: 'Rank',
             source: 'rank',
-            type: DataTypes.number
+            type: DataTypes.number,
+            width: 70
         },
         {
             name: 'Name',

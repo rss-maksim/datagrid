@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Header, Grid} from '../';
-import {gridConfig} from './gridConfig';
+import { gridConfig } from './gridConfig';
 
 import './index.scss';
 
