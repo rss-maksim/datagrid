@@ -1,0 +1,37 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:latest",
+    "tslint-plugin-prettier"
+  ],
+  "jsRules": {},
+  "rules": {
+    "prettier": true,
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "never"
+      }
+    ],
+    "semicolon": [
+      true,
+      "never"
+    ],
+    "quotemark": [
+      true,
+      "single",
+      "jsx-double"
+    ],
+    "no-reference": false,
+    "no-shadowed-variable": false,
+    "no-implicit-dependencies": false,
+    "no-submodule-imports": false,
+    "no-this-assignment": false,
+    "no-console": {
+      "severity": "warning"
+    },
+    "object-literal-sort-keys": false,
+    "no-var-requires": false
+  },
+  "rulesDirectory": []
+}

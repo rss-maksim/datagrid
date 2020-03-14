@@ -4,13 +4,13 @@ import classnames from 'classnames'
 import { IKeyValue } from '../../../common'
 
 interface IProps {
-    children: string
-    classname?: string
-    style?: IKeyValue<string|number>
+  children: string
+  classname?: string
+  style?: IKeyValue<string | number>
 }
 
 export const Cell = ({ children, classname, style }: IProps) => (
-    <div className={classnames('grid-cell', classname)} style={style}>
-        <span className="inner-grid-cell">{children}</span>
-    </div>
+  <div className={classnames('grid-cell', classname)} style={style}>
+    <span className="inner-grid-cell">{children}</span>
+  </div>
 )

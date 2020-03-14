@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-import { Header, Grid} from '../';
-import { gridConfig } from './gridConfig';
+import { Header, Grid } from '../'
+import { gridConfig } from './gridConfig'
 
-import './index.scss';
+import './index.scss'
 
 export const App = () => {
   return (
@@ -11,5 +11,5 @@ export const App = () => {
       <Header />
       <Grid config={gridConfig} />
     </div>
-  );
-};
+  )
+}
