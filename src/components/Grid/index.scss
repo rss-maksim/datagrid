@@ -1,9 +1,9 @@
-@import "../../styles/colors.scss";
+@import '../../styles/colors.scss';
 
 $column-id-max-width: 50px;
 
 .grid-container {
-  height: calc(100vh - 100px);
+  height: calc(100vh - 50px);
   width: 100%;
   overflow: auto;
   font-size: 12px;
@@ -32,11 +32,12 @@ $column-id-max-width: 50px;
   }
 
   .grid-cell {
-    flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
     padding: 0 5px;
+
     &:not(.header-grid-cell) {
       overflow: hidden;
     }
@@ -57,6 +58,10 @@ $column-id-max-width: 50px;
 
     &.grid-cell-string {
       justify-content: flex-start;
+    }
+
+    &.grid-cell-boolean {
+      min-width: 160px;
     }
 
     &.grid-cell-boolean:after {
@@ -123,7 +128,7 @@ $column-id-max-width: 50px;
     width: 180px;
     z-index: 1;
 
-    input[name="column-filter"] {
+    input[name='column-filter'] {
       width: 96%;
       height: 20px;
       margin-bottom: 10px;
@@ -141,4 +146,3 @@ $column-id-max-width: 50px;
     }
   }
 }
-

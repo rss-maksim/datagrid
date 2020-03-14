@@ -6,12 +6,14 @@ import List from 'react-virtualized-listview'
 import { IGrid, IGridConfigColumn, IRenderItemProps } from './types'
 import { IStudent } from '../../data/model'
 import { Cell, HeaderCell } from './components'
-import { formatValue } from './helpers'
+import { formatValue, getAverageWidth } from './helpers'
 import { DataTypes } from '../../const/dataTypes'
 import { Preloader } from '../Preloader'
 import { IKeyValue } from '../common'
 
 import './index.scss'
+
+const COLUMN_WIDTH = 160
 
 export class Grid extends React.Component<IGrid> {
   componentDidMount(): void {
@@ -23,14 +25,23 @@ export class Grid extends React.Component<IGrid> {
     if (!received) {
       return <Preloader />
     }
+    const columnsWidth = getAverageWidth(config.columns)
 
+    let offset = 0
+    let currentIndex = 0
     const RenderRow = ({ index, style }: IRenderItemProps) => (
       <div className="grid-row" key={index}>
-        {config.columns.map(({ source, type, width }: IGridConfigColumn) => {
+        {config.columns.map(({ source, type, width = columnsWidth }: IGridConfigColumn) => {
+          if (index !== currentIndex) {
+            offset = 0
+            currentIndex = index
+          }
           const cellStyle: IKeyValue<string | number> = {
             ...style,
-            ...(width ? { maxWidth: width } : null)
+            ...(width ? { width, minWidth: width } : { flex: 1 }),
+            left: `${offset}px`
           }
+          offset += width
           // @ts-ignore
           const value = payload[index][source]
 
@@ -55,8 +66,16 @@ export class Grid extends React.Component<IGrid> {
       <div className="grid-container">
         <div className="grid-row header-grid-row">
           {config.columns.map(
-            ({ name, source, type, width, sortable = true, filterable = false, visible = true }: IGridConfigColumn) => {
-              const style = width ? { maxWidth: width } : null
+            ({
+              name,
+              source,
+              type,
+              width = columnsWidth,
+              sortable = true,
+              filterable = false,
+              visible = true
+            }: IGridConfigColumn) => {
+              const style = width ? { width, minWidth: width } : null
 
               return (
                 <HeaderCell

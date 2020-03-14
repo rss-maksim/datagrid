@@ -30,5 +30,5 @@ export interface IGrid {
 
 export interface IRenderItemProps {
   index: number
-  style: IKeyValue<string>
+  style?: IKeyValue<string>
 }

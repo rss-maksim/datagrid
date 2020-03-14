@@ -6,7 +6,7 @@ import { IKeyValue } from '../../../common'
 interface IProps {
   children: string
   classname?: string
-  style?: IKeyValue<string | number>
+  style?: IKeyValue<string | number> | undefined
 }
 
 export const Cell = ({ children, classname, style }: IProps) => (
