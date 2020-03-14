@@ -18,12 +18,14 @@ export const gridConfig = {
         {
             name: 'Name',
             source: 'name',
-            type: DataTypes.string
+            type: DataTypes.string,
+            filterable: true
         },
         {
             name: 'Github',
             source: 'githubId',
-            type: DataTypes.string
+            type: DataTypes.string,
+            filterable: true
         },
         {
             name: 'Score',
@@ -38,7 +40,8 @@ export const gridConfig = {
         {
             name: 'Location',
             source: 'locationName',
-            type: DataTypes.string
+            type: DataTypes.string,
+            filterable: true
         },
         {
             name: 'Active',

@@ -1,8 +1,7 @@
 import classnames from 'classnames'
 import React from 'react'
-import { FixedSizeList } from 'react-window'
 
-import {IGrid, IGridConfigColumn, IState} from './types'
+import { IGrid, IGridConfigColumn, IState } from './types'
 import { IStudent } from '../../data/model'
 import { Cell, HeaderCell } from './components'
 import { formatValue } from './helpers'
@@ -25,7 +24,7 @@ export class Grid extends React.Component<IGrid, IState> {
         return (
             <div className="grid-container">
                 <div className="grid-row header-grid-row">
-                    {config.columns.map(({ name, source, type, width, sortable= true, filterable, visible= true }: IGridConfigColumn) => {
+                    {config.columns.map(({ name, source, type, width, sortable= true, filterable = false, visible= true }: IGridConfigColumn) => {
                         const style = width ? { maxWidth: width } : null
 
                         return <HeaderCell
@@ -35,33 +34,26 @@ export class Grid extends React.Component<IGrid, IState> {
                                     isOrderByThis={orderBy === source}
                                     desc={desc}
                                     onSort={sortable ? onSort(source) : undefined}
-                                    onFilter={filterable ? onFilter(source) : undefined}>
+                                    onFilter={filterable ? onFilter(source) : undefined}
+                                    filterable={filterable}>
                                 {name}
                                 </HeaderCell>
                     })}
                 </div>
                 {payload.map((student: IStudent | any, index: number) => {
                     return (
-                        <FixedSizeList
-                            height={500}
-                            width={500}
-                            itemSize={160}
-                            itemCount={payload.length}
-                            className="list-container">
-                            {({ index, style }) => (
-                                <div className="grid-row" key={index}>
-                                    {config.columns.map(({ source, type, width }: IGridConfigColumn) => {
-                                        const style = width ? { maxWidth: width } : null
+                        <div className="grid-row" key={index}>
+                            {config.columns.map(({ source, type, width }: IGridConfigColumn) => {
+                                const style = width ? { maxWidth: width } : null
+                                const value = student[source]
 
-                                        return (
-                                            <Cell classname={classnames(`grid-cell-${type} grid-cell-${source}`, {
-                                                active: type === DataTypes.boolean && Boolean(student[source])
-                                            })} style={style} key={`${source}-${index}`}>{formatValue(student[source], type)}</Cell>
-                                        )
-                                    })}
-                                </div>
-                            )}
-                        </FixedSizeList>
+                                return (
+                                    <Cell classname={classnames(`grid-cell-${type} grid-cell-${source}`, {
+                                        active: type === DataTypes.boolean && Boolean(value)
+                                    })} style={style} key={`${source}-${index}`}>{formatValue(value, type)}</Cell>
+                                )
+                            })}
+                        </div>
                     )
                 })}
             </div>

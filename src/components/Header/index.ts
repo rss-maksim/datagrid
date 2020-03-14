@@ -2,19 +2,18 @@ import { connect } from 'react-redux'
 import { Dispatch } from 'redux'
 
 import { Header as HeaderComponent } from './Header';
-import { changeLanguage } from './reducer';
+import { toggleVirtualize } from './reducer';
 
-const mapStateToProps = ({ headerReducer }: any) => ({})
+const mapStateToProps = ({ headerReducer: { virtualizeOn } }: any) => ({ virtualizeOn })
 
 const mapDispatchToProps = (dispatch: Dispatch) => ({
-    changeLanguage: (lang: string) => () => dispatch(changeLanguage(lang))
+    toggleVirtualize: () => dispatch(toggleVirtualize())
 })
 
 export const Header = connect(
     mapStateToProps,
     mapDispatchToProps
 )(HeaderComponent)
-
 
 export { headerReducer } from './reducer'
 export { headerSaga } from './saga'

@@ -1,31 +1,24 @@
-import { Action, createAction, handleActions } from 'redux-actions';
-
-enum languages {
-    EN = 'en',
-    RU = 'ru'
-}
+import { createAction, handleActions } from 'redux-actions';
 
 const actions = {
-    changeLanguage: 'changeLanguage'
+    toggleVirtualize: 'toggleVirtualize'
 };
 
 interface IHeaderState {
-    language: languages
+    virtualizeOn: boolean
 }
 
-export type HeaderPayloadType = Action<languages>
-
-export const changeLanguage = createAction(actions.changeLanguage)
+export const toggleVirtualize = createAction(actions.toggleVirtualize)
 
 const defaultState: IHeaderState = {
-    language: languages.EN
+    virtualizeOn: true
 };
 
 export const headerReducer = handleActions(
     {
-        [actions.changeLanguage]: (state: IHeaderState, { payload: language }: HeaderPayloadType): IHeaderState => ({
+        [actions.toggleVirtualize]: (state: IHeaderState): IHeaderState => ({
             ...state,
-            language
+            virtualizeOn: !state.virtualizeOn
         }),
     },
     defaultState

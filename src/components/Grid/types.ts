@@ -23,7 +23,7 @@ export interface IGrid {
     config: IGridConfig
     fetchData: () => void
     onSort: (column: string) => () => void
-    onFilter: (column: string) => () => void
+    onFilter: (column: string) => (value: string) => void
 }
 
 export interface IState {
