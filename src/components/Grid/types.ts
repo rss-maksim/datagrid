@@ -1,4 +1,5 @@
-import { IStudent } from '../../data/model';
+import { IStudent } from '../../data/model'
+import { IKeyValue } from '../common'
 
 export interface IGridConfigColumn {
     name: string
@@ -20,6 +21,7 @@ export interface IGrid {
     received: boolean
     orderBy: string
     desc: boolean
+    virtualizeOn?: boolean
     config: IGridConfig
     fetchData: () => void
     onSort: (column: string) => () => void
@@ -28,4 +30,9 @@ export interface IGrid {
 
 export interface IState {
 
+}
+
+export interface IRenderItemProps {
+    index: number
+    style: IKeyValue<string>
 }

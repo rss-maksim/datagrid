@@ -1,10 +1,12 @@
 import React from 'react'
 import classnames from 'classnames'
 
+import { IKeyValue } from '../../../common'
+
 interface IProps {
     children: string
     classname?: string
-    style?: any
+    style?: IKeyValue<string|number>
 }
 
 export const Cell = ({ children, classname, style }: IProps) => (

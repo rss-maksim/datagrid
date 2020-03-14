@@ -8,8 +8,9 @@ import { filterBy, sortBy } from './helpers'
 
 const PER_PAGE = 1200
 
-const mapStateToProps = ({ gridReducer }: any) => {
+const mapStateToProps = ({ gridReducer, headerReducer }: any) => {
     const { data, pagination, received, orderBy, desc, filterKey, filterValue } = gridReducer
+    const { virtualizeOn } = headerReducer
     const { page, perPage } = pagination
     const filtered = Boolean(filterValue) ? filter(filterBy(filterKey, filterValue), data) : data
     const payload = sortBy(filtered, orderBy, desc).slice(PER_PAGE * page, PER_PAGE * (page + 1))
@@ -17,7 +18,8 @@ const mapStateToProps = ({ gridReducer }: any) => {
         payload,
         received,
         orderBy,
-        desc
+        desc,
+        virtualizeOn
     }
 }
 

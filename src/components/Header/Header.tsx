@@ -21,7 +21,7 @@ export const Header = ({ toggleVirtualize, virtualizeOn }: IProps) => (
                         color="primary"
                     />
                 }
-                label={`Virtualize ${virtualizeOn ? 'On' : 'Off'}`}
+                label={`Virtualization ${virtualizeOn ? 'On' : 'Off'}`}
             />
         </div>
     </header>

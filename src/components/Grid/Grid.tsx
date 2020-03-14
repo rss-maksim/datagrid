@@ -1,12 +1,15 @@
 import classnames from 'classnames'
 import React from 'react'
+// @ts-ignore
+import List from 'react-virtualized-listview'
 
-import { IGrid, IGridConfigColumn, IState } from './types'
+import { IGrid, IGridConfigColumn, IRenderItemProps, IState } from './types'
 import { IStudent } from '../../data/model'
 import { Cell, HeaderCell } from './components'
 import { formatValue } from './helpers'
 import { DataTypes } from '../../const/dataTypes'
 import { Preloader } from '../Preloader'
+import { IKeyValue } from '../common'
 
 import './index.scss'
 
@@ -16,10 +19,31 @@ export class Grid extends React.Component<IGrid, IState> {
     }
 
     render() {
-        const { payload, received, config, orderBy, desc, onSort, onFilter } = this.props
+        const { payload, received, config, orderBy, desc, virtualizeOn = true, onSort, onFilter } = this.props
         if (!received) {
             return <Preloader />
         }
+
+        const RenderRow = ({ index, style }: IRenderItemProps) => (
+            <div className="grid-row" key={index}>
+                {config.columns.map(({ source, type, width }: IGridConfigColumn) => {
+                    const cellStyle: IKeyValue<string|number> = {
+                        ...style,
+                        ...(width ? { maxWidth: width } : null)
+                    }
+                    // @ts-ignore
+                    const value = payload[index][source]
+
+                    return (
+                        <Cell classname={classnames(`grid-cell-${type} grid-cell-${source}`, {
+                            active: type === DataTypes.boolean && Boolean(value)
+                        })} style={cellStyle} key={`${source}-${index}`}>{formatValue(value, type)}</Cell>
+                    )
+                })}
+            </div>
+        )
+
+        const style = {}
 
         return (
             <div className="grid-container">
@@ -40,22 +64,9 @@ export class Grid extends React.Component<IGrid, IState> {
                                 </HeaderCell>
                     })}
                 </div>
-                {payload.map((student: IStudent | any, index: number) => {
-                    return (
-                        <div className="grid-row" key={index}>
-                            {config.columns.map(({ source, type, width }: IGridConfigColumn) => {
-                                const style = width ? { maxWidth: width } : null
-                                const value = student[source]
-
-                                return (
-                                    <Cell classname={classnames(`grid-cell-${type} grid-cell-${source}`, {
-                                        active: type === DataTypes.boolean && Boolean(value)
-                                    })} style={style} key={`${source}-${index}`}>{formatValue(value, type)}</Cell>
-                                )
-                            })}
-                        </div>
-                    )
-                })}
+                {virtualizeOn
+                    ? <List source={payload} rowHeight={30} renderItem={RenderRow} />
+                    : payload.map((student: IStudent | any, index: number) => <RenderRow index={index} style={style} />)}
             </div>
         )
     }
