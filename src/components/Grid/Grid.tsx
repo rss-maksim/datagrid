@@ -25,13 +25,13 @@ export class Grid extends React.Component<IGrid> {
     if (!received) {
       return <Preloader />
     }
-    const columnsWidth = getAverageWidth(config.columns)
+    const columnWidth = getAverageWidth(config.columns) || COLUMN_WIDTH
 
     let offset = 0
     let currentIndex = 0
     const RenderRow = ({ index, style }: IRenderItemProps) => (
       <div className="grid-row" key={index}>
-        {config.columns.map(({ source, type, width = columnsWidth }: IGridConfigColumn) => {
+        {config.columns.map(({ source, type, width = columnWidth }: IGridConfigColumn) => {
           if (index !== currentIndex) {
             offset = 0
             currentIndex = index
@@ -70,7 +70,7 @@ export class Grid extends React.Component<IGrid> {
               name,
               source,
               type,
-              width = columnsWidth,
+              width = columnWidth,
               sortable = true,
               filterable = false,
               visible = true
@@ -97,7 +97,7 @@ export class Grid extends React.Component<IGrid> {
         {virtualizeOn ? (
           <List source={payload} rowHeight={30} renderItem={RenderRow} />
         ) : (
-          payload.map((student: IStudent | any, index: number) => <RenderRow index={index} style={style} />)
+          payload.map((student: IStudent | any, index: number) => <RenderRow key={index} index={index} style={style} />)
         )}
       </div>
     )
